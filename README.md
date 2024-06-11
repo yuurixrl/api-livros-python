@@ -16,3 +16,4 @@
 ## Utiliza
 - Flask
 - Postman
+- JSON
